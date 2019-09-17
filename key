@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am daoduyvy on github.
+  * I am daoduyvy (https://keybase.io/daoduyvy) on keybase.
+  * I have a public key ASDj5tI9YpYgpN8o3IIARZY03aqiPoly54jZkIqAy3weWQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e3e6d23d629620a4df28dc8200459634ddaaa23e8972e788d9908a80cb7c1e590a",
+      "host": "keybase.io",
+      "kid": "0120e3e6d23d629620a4df28dc8200459634ddaaa23e8972e788d9908a80cb7c1e590a",
+      "uid": "8a8849d274545712751274a414f4d819",
+      "username": "daoduyvy"
+    },
+    "merkle_root": {
+      "ctime": 1568682751,
+      "hash": "de033471227f4dc09d033a83b38dd214ac4245e8fec8afee31bf5321b513ad22e2600c36af6b8f76867169cde42847f9e84d61c4c83ca450cab23b220bc12225",
+      "hash_meta": "7b608ca8fe32e73e0308e3b601208684390facb192c236b43902d8601815c29b",
+      "seqno": 7497897
+    },
+    "service": {
+      "entropy": "UP5GrF9dR+qV4d1Hg/dZ7ghp",
+      "name": "github",
+      "username": "daoduyvy"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568682755,
+  "expire_in": 504576000,
+  "prev": "32d8e14235ec4333c7be5ef1e000638482b24b7c08a6c22d5d8d7bb54d2b9a78",
+  "seqno": 7,
+  "tag": "signature"
+}
+```
+
+with the key [ASDj5tI9YpYgpN8o3IIARZY03aqiPoly54jZkIqAy3weWQo](https://keybase.io/daoduyvy), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4+bSPWKWIKTfKNyCAEWWNN2qoj6JcueI2ZCKgMt8HlkKp3BheWxvYWTESpcCB8QgMtjhQjXsQzPHvl7x4ABjhIKyS3wIpsItXY17tU0rmnjEIOyWuCwlamPuxHffsDsy+d4GroMfJmvXcsClXF6KMIBUAgHCo3NpZ8RArUnM3iEvEVXeNyW2BzkMI+RoKUfrC7rUr+V0vTKPiX+rF5RobrCK0bRAg0MPVMwEeJx0OcqV0/cOind5dMeZBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKyy566DJRzseGojtbab0A4OFttTH4MHBfXOqbqcMnMRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/daoduyvy
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id daoduyvy
+```
